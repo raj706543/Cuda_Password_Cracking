@@ -1,0 +1,50 @@
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 83803195ns or 0.083803195s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 68066013ns or 0.068066013s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 68201526ns or 0.068201526s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 77788879ns or 0.077788879s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 68165810ns or 0.068165810s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 69997067ns or 0.069997067s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 68215342ns or 0.068215342s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 68526519ns or 0.068526519s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 70754998ns or 0.070754998s
+Password Found: HT2434
+Password Found: ES8756
+Password Found: CV7823
+Password Found: RD4565
+Time elapsed was 67637655ns or 0.067637655s
